@@ -1,6 +1,6 @@
 # Analytics and AI samples
 
- Hi, this is Satwiki.👋 This repository contains various samples organized into different folders, showcasing techniques in data visualization, exploratory data analysis (EDA), and AI applications (coming soon). GitHub users are welcome to explore and fork the repository to try out the amples. However, please refrain from misusing or re-publishing the content. 😊
+ Hi, this is Satwiki.👋 This repository contains various samples organized into different folders, showcasing techniques in data visualization, exploratory data analysis (EDA), and AI applications (coming soon). GitHub users are welcome to explore and fork the repository to try out the samples. However, please refrain from misusing or re-publishing the content. 😊
 
 | Folder Name         | Description                                   | Data Source used                   |
 |---------------------|-----------------------------------------------|-------------------------------------|
