@@ -1,7 +1,9 @@
 # Analytics and AI samples
 
- Hi, this is Satwiki.👋 This repository contains various samples organized into different folders, showcasing techniques in data visualization, exploratory data analysis (EDA), and AI applications (coming soon). GitHub users are welcome to explore and fork the repository to try out the samples. However, please refrain from misusing or re-publishing the content. 😊
+ Hi, this is Satwiki.👋 This repository contains various samples showcasing techniques in data visualization, exploratory data analysis (EDA), and AI applications. GitHub users are welcome to explore and fork the repository to try out the samples. However, please refrain from misusing or re-publishing the content. 😊
 
 | Folder Name         | Description                                   | Data Source used                   |
 |---------------------|-----------------------------------------------|-------------------------------------|
+|  `langchain-query-your-database` | Get information from relational data in your SQL database using natural language query. Explore details here: [‘Talk’ to Your SQL Database Using LangChain and Azure OpenAI](https://medium.com/towards-data-science/talk-to-your-sql-database-using-langchain-and-azure-openai-bb79ad22c5e2) | SQL scripts available |
+| `chainlit-chatbot-app` | Create quick, interactive chatbot in Python using Chainlit, Apply langchain for using LLMs and RAG (Retrieval Augmented Generation) pattern. Check this out: [Build a Chatbot in minutes with Chainlit, GPT-4 and LangChain](https://medium.com/@cleancoder/build-a-chatbot-in-minutes-with-chainlit-gpt-4-and-langchain-7690968578f0) | |
 | `IPL`               | Explore Indian Premier League bowlers performance through visualization. Compare SRH bowlers with another team to understand performance metrics across various segments of T20 match to generate insights. | [IPL ball by ball dataset](https://www.kaggle.com/datasets/sahiltailor/ipl-2024-ball-by-ball-dataset) |
